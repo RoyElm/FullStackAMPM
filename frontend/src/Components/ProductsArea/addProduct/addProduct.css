@@ -1,0 +1,9 @@
+.addProduct {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.addProduct input {
+    width: 200px;
+}

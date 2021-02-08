@@ -1,0 +1,16 @@
+.ProductCard {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 300px;
+    margin: 10px;
+}
+.ProductCard button{
+    position: relative;
+    bottom: 130px;
+    left: 135px;
+    border-radius: 10px;
+    background-color: red;
+}
+.ProductCard .productDetails{
+    text-align: left;
+}
